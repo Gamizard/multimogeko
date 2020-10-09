@@ -1,0 +1,899 @@
+﻿*****Entry1*****
+#Name# [20]
+生ハム
+
+#Description# [50]
+神の産物。完全に回復する。
+
+
+
+*****Entry2*****
+#Name# [20]
+ペペロンチーノ
+
+#Description# [50]
+ＨＰを 250 ポイント回復する。
+
+
+
+*****Entry3*****
+#Name# [20]
+トウガラシ
+
+#Description# [50]
+ＭＰを 80 ポイント回復する。
+
+
+
+*****Entry4*****
+#Name# [20]
+ミネストローネ
+
+#Description# [50]
+ＨＰ・ＭＰを完全に回復する。
+
+
+
+*****Entry5*****
+#Name# [20]
+鴨肉
+
+#Description# [50]
+戦闘不能から復活させる。
+
+
+
+*****Entry6*****
+#Name# [20]
+ポテト（Ｌ）
+
+#Description# [50]
+毒状態を回復する。
+
+
+
+*****Entry7*****
+#Name# [20]
+サーモン
+
+#Description# [50]
+戦闘不能以外の状態異常を回復する。
+
+
+
+*****Entry8*****
+#Name# [20]
+ポテチ（のりしお）
+
+#Description# [50]
+味方全員を完全回復する。
+
+
+
+*****Entry9*****
+#Name# [20]
+うすい本
+
+#Description# [50]
+うすくて高いえっちな本。
+
+
+
+*****Entry10*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry11*****
+#Name# [20]
+骨すき刀
+
+#Description# [50]
+ごく一般的な量産型の包丁。
+
+
+
+*****Entry12*****
+#Name# [20]
+鎌
+
+#Description# [50]
+死神からパクッてきたらしい。
+
+
+
+*****Entry13*****
+#Name# [20]
+殺虫剤
+
+#Description# [50]
+これでどんな虫も一撃だ。そう。ヤツさえも。
+
+
+
+*****Entry14*****
+#Name# [20]
+釘の刺さったバット
+
+#Description# [50]
+相手をたこ殴りにする時に使うといいらしい。
+
+
+
+*****Entry15*****
+#Name# [20]
+灰皿
+
+#Description# [50]
+手で持って相手を背後から殴る。
+
+
+
+*****Entry16*****
+#Name# [20]
+メリケンサック
+
+#Description# [50]
+じゃんけんぐーで相手を殴る。
+
+
+
+*****Entry17*****
+#Name# [20]
+ノートパソコン
+
+#Description# [50]
+相手に向かって投げる
+
+
+
+*****Entry18*****
+#Name# [20]
+日本刀
+
+#Description# [50]
+100均で買ったら実は本物だった刀。
+
+
+
+*****Entry19*****
+#Name# [20]
+携帯電話
+
+#Description# [50]
+すぐ充電が切れる。
+
+
+
+*****Entry20*****
+#Name# [20]
+日本刀
+
+#Description# [50]
+ごく一般的な量産型の日本刀。
+
+
+
+*****Entry21*****
+#Name# [20]
+ペンタブ
+
+#Description# [50]
+シンプルなプラスチック製のペン。
+
+
+
+*****Entry22*****
+#Name# [20]
+チョコレート
+
+#Description# [50]
+MPが10あがる。
+
+
+
+*****Entry23*****
+#Name# [20]
+絵本
+
+#Description# [50]
+おもしろおかしく、悲しい、エログロ。そんな物語
+
+
+
+*****Entry24*****
+#Name# [20]
+飴ちゃん
+
+#Description# [50]
+ＭＰを２０回復する。
+
+
+
+*****Entry25*****
+#Name# [20]
+強き心
+
+#Description# [50]
+異端モゲコの心
+
+
+
+*****Entry26*****
+#Name# [20]
+すけべな薬
+
+#Description# [50]
+ＨＰを20回復する。
+
+
+
+*****Entry27*****
+#Name# [20]
+鶏肉料理本
+
+#Description# [50]
+鶏の解体の方法から調理まで幅広くご紹介。
+
+
+
+*****Entry28*****
+#Name# [20]
+ヨナカのパンツ
+
+#Description# [50]
+
+
+
+
+*****Entry29*****
+#Name# [20]
+★博物館
+
+#Description# [50]
+博物館へいける。
+
+
+
+*****Entry30*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry31*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry32*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry33*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry34*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry35*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry36*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry37*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry38*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry39*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry40*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry41*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry42*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry43*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry44*****
+#Name# [20]
+スクールバッグ
+
+#Description# [50]
+学生が持ってるやつ。
+
+
+
+*****Entry45*****
+#Name# [20]
+モゲコ帽子
+
+#Description# [50]
+モゲコごっこセット。
+
+
+
+*****Entry46*****
+#Name# [20]
+制服（ブレザー）
+
+#Description# [50]
+ただの制服。
+
+
+
+*****Entry47*****
+#Name# [20]
+ペンギン帽子
+
+#Description# [50]
+ペンギンごっこセット。
+
+
+
+*****Entry48*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry49*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry50*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry51*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry52*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry53*****
+#Name# [20]
+制服（ブレザー）
+
+#Description# [50]
+ただの制服。
+
+
+
+*****Entry54*****
+#Name# [20]
+十字傷
+
+#Description# [50]
+昔つけられた傷
+
+
+
+*****Entry55*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry56*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry57*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry58*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry59*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry60*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry61*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry62*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry63*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry64*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry65*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry66*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry67*****
+#Name# [20]
+髪留め
+
+#Description# [50]
+好きな髪型にできる。
+
+
+
+*****Entry68*****
+#Name# [20]
+モゲコ帽子
+
+#Description# [50]
+モゲコごっこセット。
+
+
+
+*****Entry69*****
+#Name# [20]
+頬の傷
+
+#Description# [50]
+古傷。
+
+
+
+*****Entry70*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry71*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry72*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry73*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry74*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry75*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry76*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry77*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry78*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry79*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry80*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry81*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry82*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry83*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry84*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry85*****
+#Name# [20]
+大きなナイフ
+
+#Description# [50]
+我こそが覇王なり
+
+
+
+*****Entry86*****
+#Name# [20]
+カギ
+
+#Description# [50]
+モゲコキャッスル内のすべての扉の鍵
+
+
+
+*****Entry87*****
+#Name# [20]
+たまご
+
+#Description# [50]
+食べると体中に寄生虫が沸くので注意。
+
+
+
+*****Entry88*****
+#Name# [20]
+カギ２
+
+#Description# [50]
+ある場所に入るときに使う
+
+
+
+*****Entry89*****
+#Name# [20]
+ハンマー
+
+#Description# [50]
+ハスハスキーを助けよう！
+
+
+
+*****Entry90*****
+#Name# [20]
+免罪符
+
+#Description# [50]
+ラストまでとっておきましょう
+
+
+
+*****Entry91*****
+#Name# [20]
+怖い本
+
+#Description# [50]
+もげ子の趣味がまるわかりな本
+
+
+
+*****Entry92*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry93*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry94*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry95*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry96*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry97*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry98*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry99*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+
+
+*****Entry100*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+

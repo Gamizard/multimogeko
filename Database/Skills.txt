@@ -1,0 +1,209 @@
+﻿*****Entry1*****
+#Name# [20]
+真夜中ビンタ
+
+#Description# [50]
+敵単体にビンタで攻撃。
+
+#UseMessage1# [30]
+は真夜中ビンタを使った！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry2*****
+#Name# [20]
+真夜中の悪夢
+
+#Description# [50]
+敵全体に悪夢を見せる。
+
+#UseMessage1# [30]
+は真夜中の悪夢を使った！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry3*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry4*****
+#Name# [20]
+真夜中の月
+
+#Description# [50]
+敵全体に月の光で攻撃。
+
+#UseMessage1# [30]
+は真夜中の月を使った！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry5*****
+#Name# [20]
+目潰し
+
+#Description# [50]
+敵単体の目を潰す。
+
+#UseMessage1# [30]
+は目潰しを使った！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry6*****
+#Name# [20]
+急所を蹴り上げる
+
+#Description# [50]
+敵単体の大事なところを蹴り上げる。
+
+#UseMessage1# [30]
+は急所を蹴り上げるを使った！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry7*****
+#Name# [20]
+--------------------
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry8*****
+#Name# [20]
+モゲコ大虐殺
+
+#Description# [50]
+敵全体を大虐殺する。
+
+#UseMessage1# [30]
+はモゲコ大虐殺を使った！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry9*****
+#Name# [20]
+回し蹴り
+
+#Description# [50]
+敵単体を回り蹴りで攻撃。
+
+#UseMessage1# [30]
+は回し蹴りを使った！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry10*****
+#Name# [20]
+モゲコアタック
+
+#Description# [50]
+敵単体に体当たりで攻撃。
+
+#UseMessage1# [30]
+はモゲコアタックを放った！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry11*****
+#Name# [20]
+ヒールⅠ
+
+#Description# [50]
+味方単体のＨＰを 30 ポイント程度回復する。
+
+#UseMessage1# [30]
+はヒールⅠを唱えた！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry12*****
+#Name# [20]
+毒攻撃
+
+#Description# [50]
+敵単体にダメージを与え、毒状態にする。
+
+#UseMessage1# [30]
+の攻撃！
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry13*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+
+
+*****Entry14*****
+#Name# [20]
+
+
+#Description# [50]
+
+
+#UseMessage1# [30]
+
+
+#UseMessage2# [50]
+
+
+

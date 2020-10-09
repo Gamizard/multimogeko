@@ -1,0 +1,203 @@
+﻿*****Entry1*****
+#Name# [8]
+戦闘不能
+
+#InflictedOnAlly# [30]
+は倒れた！
+
+#InflictedOnEnemy# [30]
+を倒した！
+
+#Recovered# [30]
+は立ち上がった！
+
+
+
+*****Entry2*****
+#Name# [8]
+毒
+
+#InflictedOnAlly# [30]
+は毒に冒された！
+
+#InflictedOnEnemy# [30]
+は毒に冒された！
+
+#AlreadyInflicted# [30]
+はすでに毒に冒されている！
+
+#Continuing# [30]
+
+
+#Recovered# [30]
+の毒が消えた！
+
+
+
+*****Entry3*****
+#Name# [8]
+暗闇
+
+#InflictedOnAlly# [30]
+は暗闇に閉ざされた！
+
+#InflictedOnEnemy# [30]
+を暗闇に閉ざした！
+
+#AlreadyInflicted# [30]
+はすでに暗闇に閉ざされている！
+
+#Continuing# [30]
+
+
+#Recovered# [30]
+の暗闇が消えた！
+
+
+
+*****Entry4*****
+#Name# [8]
+沈黙
+
+#InflictedOnAlly# [30]
+は沈黙した！
+
+#InflictedOnEnemy# [30]
+を沈黙させた！
+
+#AlreadyInflicted# [30]
+はすでに沈黙している！
+
+#Continuing# [30]
+
+
+#Recovered# [30]
+の沈黙が解けた！
+
+
+
+*****Entry5*****
+#Name# [8]
+暴走
+
+#InflictedOnAlly# [30]
+は暴走した！
+
+#InflictedOnEnemy# [30]
+を暴走させた！
+
+#AlreadyInflicted# [30]
+はすでに暴走している！
+
+#Continuing# [30]
+
+
+#Recovered# [30]
+は我に返った！
+
+
+
+*****Entry6*****
+#Name# [8]
+混乱
+
+#InflictedOnAlly# [30]
+は混乱した！
+
+#InflictedOnEnemy# [30]
+を混乱させた！
+
+#AlreadyInflicted# [30]
+はすでに混乱している！
+
+#Continuing# [30]
+
+
+#Recovered# [30]
+は我に返った！
+
+
+
+*****Entry7*****
+#Name# [8]
+睡眠
+
+#InflictedOnAlly# [30]
+は眠ってしまった！
+
+#InflictedOnEnemy# [30]
+を眠らせた！
+
+#AlreadyInflicted# [30]
+はすでに眠っている！
+
+#Continuing# [30]
+は眠っている・・・
+
+#Recovered# [30]
+は目を覚ました！
+
+
+
+*****Entry8*****
+#Name# [8]
+麻痺
+
+#InflictedOnAlly# [30]
+は麻痺して動けなくなった！
+
+#InflictedOnEnemy# [30]
+を麻痺させた！
+
+#AlreadyInflicted# [30]
+はすでに麻痺している！
+
+#Continuing# [30]
+は麻痺していて動けない！
+
+#Recovered# [30]
+の麻痺が解けた！
+
+
+
+*****Entry9*****
+#Name# [8]
+よろめき
+
+#InflictedOnAlly# [30]
+はバランスを崩した！
+
+#InflictedOnEnemy# [30]
+はバランスを崩した！
+
+#AlreadyInflicted# [30]
+
+
+#Continuing# [30]
+はよろめいている・・・
+
+#Recovered# [30]
+はよろめいている・・・
+
+
+
+*****Entry10*****
+#Name# [8]
+驚き
+
+#InflictedOnAlly# [30]
+は立ちすくんだ！
+
+#InflictedOnEnemy# [30]
+は立ちすくんだ！
+
+#AlreadyInflicted# [30]
+
+
+#Continuing# [30]
+は立ちすくんでいる・・・
+
+#Recovered# [30]
+は立ちすくんでいる・・・
+
+
