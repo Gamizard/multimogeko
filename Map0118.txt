@@ -6,56 +6,56 @@
 
 
 #Message# (6)
-ヨナカ
+Yonaka
 「････････。」
 ##
 
 
 #Message# (8)
-ヨナカ
+Yonaka
 「私･･･････」
 ##
 
 
 #Message# (10)
-ヨナカ
+Yonaka
 「何しにきたんだっけ？」
 ##
 
 
 #Message# (12)
-ヨナカ
+Yonaka
 「何でここにいるんだっけ？」
 ##
 
 
 #Message# (14)
-ヨナカ
+Yonaka
 「･･････。」
 ##
 
 
 #Message# (16)
-ヨナカ
+Yonaka
 「････････？」
 ##
 
 
 #Message# (19)
-ヨナカ
+Yonaka
 「私は･････\.\.\.
 　だ\.\.れ\.\.？」
 ##
 
 
 #Message# (23)
-ヨナカ
+Yonaka
 「私は･･････････」
 ##
 
 
 #Message# (27)
-ヨナカ
+Yonaka
 「わたしは」
 ##
 

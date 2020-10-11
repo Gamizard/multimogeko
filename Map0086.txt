@@ -1,68 +1,68 @@
 ﻿**********Event1********** (0,0) - EV0001
 -----Page1-----
 #Message# (3)
-ヨナカ
+Yonaka
 「･････。」
 ##
 
 
 #Message# (7)
-ヨナカ
+Yonaka
 「･\.･\.･\.･\.兄さん。」
 ##
 
 
 #Message# (9)
-ヨナカ
+Yonaka
 「一体何処へ行ったの？」
 ##
 
 
 #Message# (11)
-ヨナカ
+Yonaka
 「もう何日も帰ってきてない･･･。」
 ##
 
 
 #Message# (13)
-ヨナカ
+Yonaka
 「････。」
 ##
 
 
 #Message# (15)
-ヨナカ
+Yonaka
 「心配だよ･････。」
 ##
 
 
 #Message# (17)
-ヨナカ
+Yonaka
 「･･･。」
 ##
 
 
 #Message# (19)
-ヨナカ
+Yonaka
 「何か事件に
 　巻き込まれてたりしたら･･･。」
 ##
 
 
 #Message# (22)
-ヨナカ
+Yonaka
 「ああ････」
 ##
 
 
 #Message# (24)
-ヨナカ
+Yonaka
 「私、どうすれば････。」
 ##
 
 
 #Message# (26)
-ヨナカ
+Yonaka
 「兄さん･･･････････。」
 ##
 

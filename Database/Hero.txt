@@ -1,6 +1,6 @@
 ﻿*****Entry1*****
 #Name# [12]
-ヨナカ
+Yonaka
 
 #Title# [12]
 女子高生

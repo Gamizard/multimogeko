@@ -138,7 +138,7 @@ MOGEKO CASTLE
 
 
 #Message# (14)
-ヨナカ
+Yonaka
 「･･････････？」
 ##
 
@@ -159,7 +159,7 @@ MOGEKO CASTLE
 
 
 #Message# (14)
-ヨナカ
+Yonaka
 「･･････････？」
 ##
 
@@ -180,7 +180,7 @@ MOGEKO CASTLE
 
 
 #Message# (14)
-ヨナカ
+Yonaka
 「･･････････？」
 ##
 
@@ -201,7 +201,7 @@ MOGEKO CASTLE
 
 
 #Message# (14)
-ヨナカ
+Yonaka
 「･･････････？」
 ##
 
