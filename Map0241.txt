@@ -1,7 +1,7 @@
 ﻿**********Event3********** (0,0) - EV0003
 -----Page1-----
 #Message# (3)
-異端モゲコ
+Defect Mogeko
 「！？！？！？！？！？」
 ##
 
@@ -27,13 +27,13 @@ Yonaka
 
 
 #Message# (23)
-異端モゲコ
+Defect Mogeko
 「！！！」
 ##
 
 
 #Message# (28)
-異端モゲコ
+Defect Mogeko
 「かっ･･･鍵が」
 ##
 
@@ -45,25 +45,25 @@ Yonaka
 
 
 #Message# (34)
-異端モゲコ
+Defect Mogeko
 「･･････････。」
 ##
 
 
 #Message# (36)
-異端モゲコ
+Defect Mogeko
 「････････そうか」
 ##
 
 
 #Message# (39)
-異端モゲコ
+Defect Mogeko
 「貴様の仕業か･････」
 ##
 
 
 #Message# (47)
-異端モゲコ
+Defect Mogeko
 「もげこ！！！！！！」
 ##
 

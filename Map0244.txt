@@ -1,7 +1,7 @@
 ﻿**********Event16********** (0,0) - EV0016
 -----Page1-----
 #Message# (8)
-異端モゲコ
+Defect Mogeko
 「俺もそう簡単にやられるのは
 　嫌なんでね！！」
 ##
@@ -14,7 +14,7 @@ Yonaka
 
 
 #Message# (15)
-異端モゲコ
+Defect Mogeko
 「嬢ちゃん！\.\.
 　念には念を、\.\.だ！」
 ##
@@ -27,7 +27,7 @@ King mogeko
 
 
 #Message# (22)
-異端モゲコ
+Defect Mogeko
 「悪いな藻毛子！
 　俺はまだ死ねないんだ！」
 ##
@@ -41,7 +41,7 @@ King mogeko
 
 
 #Message# (30)
-異端モゲコ
+Defect Mogeko
 「うおおおおおおおおーーーッッ！！！」
 ##
 
@@ -53,7 +53,7 @@ Yonaka
 
 
 #Message# (52)
-異端モゲコ
+Defect Mogeko
 「あいつは厄介だ\.\.
 　これぐらいやらんと」
 ##

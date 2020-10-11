@@ -8,7 +8,7 @@ Yonaka
 
 
 #Message# (7)
-異端モゲコ
+Defect Mogeko
 「なんだ」
 ##
 
@@ -20,13 +20,13 @@ Yonaka
 
 
 #Message# (13)
-異端モゲコ
+Defect Mogeko
 「･･･････。」
 ##
 
 
 #Message# (15)
-異端モゲコ
+Defect Mogeko
 「････････そうだな」
 ##
 
@@ -39,7 +39,7 @@ Yonaka
 
 
 #Message# (22)
-異端モゲコ
+Defect Mogeko
 「･･･････知らん」
 ##
 
@@ -49,7 +49,7 @@ Yonaka
 **********Event11********** (11,2) - EV0011
 -----Page1-----
 #Message# (2)
-異端モゲコ
+Defect Mogeko
 「特に怪しい気配は感じないな･･･」
 ##
 

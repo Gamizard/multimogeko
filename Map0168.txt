@@ -19,7 +19,7 @@
 **********Event10********** (10,12) - EV0010
 -----Page1-----
 #Message# (2)
-異端モゲコ
+Defect Mogeko
 「ハス･･･････････。」
 ##
 
@@ -35,7 +35,7 @@ Yonaka
 
 
 #Message# (7)
-異端モゲコ
+Defect Mogeko
 「･･･････。」
 ##
 
@@ -47,13 +47,13 @@ Yonaka
 
 
 #Message# (13)
-異端モゲコ
+Defect Mogeko
 「･･･････････。」
 ##
 
 
 #Message# (15)
-異端モゲコ
+Defect Mogeko
 「みかけないと思ったら･･･
 　ここにいたのか･･･」
 ##
@@ -66,7 +66,7 @@ Yonaka
 
 
 #Message# (22)
-異端モゲコ
+Defect Mogeko
 「ハス。お前までもげ子の手に
 　かかっていたとはな･･･」
 ##
@@ -91,7 +91,7 @@ Yonaka
 
 
 #Message# (36)
-異端モゲコ
+Defect Mogeko
 「一体何があったんだ？」
 ##
 
@@ -142,7 +142,7 @@ Yonaka
 
 
 #Message# (10)
-異端モゲコ
+Defect Mogeko
 「････････････。」
 ##
 
@@ -167,7 +167,7 @@ Yonaka
 
 
 #Message# (21)
-異端モゲコ
+Defect Mogeko
 「もう見つかったんだ\.\.
 　エレベーターに乗る前にな」
 ##
@@ -205,7 +205,7 @@ Yonaka
 
 
 #Message# (39)
-異端モゲコ
+Defect Mogeko
 「何？」
 ##
 
@@ -225,13 +225,13 @@ Yonaka
 
 
 #Message# (49)
-異端モゲコ
+Defect Mogeko
 「･････････。」
 ##
 
 
 #Message# (51)
-異端モゲコ
+Defect Mogeko
 「ハス･･･\.\.お前も俺らと一緒に行こう」
 ##
 
@@ -244,7 +244,7 @@ Yonaka
 
 
 #Message# (58)
-異端モゲコ
+Defect Mogeko
 「ハス！」
 ##
 
@@ -263,7 +263,7 @@ Yonaka
 
 
 #Message# (67)
-異端モゲコ
+Defect Mogeko
 「･･･････････。」
 ##
 
@@ -275,7 +275,7 @@ Yonaka
 
 
 #Message# (73)
-異端モゲコ
+Defect Mogeko
 「･･･････････。」
 ##
 

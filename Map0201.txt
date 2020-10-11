@@ -13,7 +13,7 @@ Yonaka
 
 
 #Message# (31)
-異端モゲコ
+Defect Mogeko
 「おい！」
 ##
 
@@ -25,7 +25,7 @@ Yonaka
 
 
 #Message# (39)
-異端モゲコ
+Defect Mogeko
 「なんだ？どうかしたのか？」
 ##
 
@@ -38,7 +38,7 @@ Yonaka
 
 
 #Message# (46)
-異端モゲコ
+Defect Mogeko
 「･･････そうか。」
 ##
 
@@ -55,7 +55,7 @@ Yonaka
 
 
 #Message# (6)
-異端モゲコ
+Defect Mogeko
 「映画の見すぎだ。」
 ##
 

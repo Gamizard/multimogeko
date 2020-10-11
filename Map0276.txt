@@ -7,7 +7,7 @@ King mogeko
 
 
 #Message# (7)
-異端モゲコ
+Defect Mogeko
 「････････････。」
 ##
 
@@ -19,13 +19,13 @@ King mogeko
 
 
 #Message# (13)
-異端モゲコ
+Defect Mogeko
 「･･･････。」
 ##
 
 
 #Message# (16)
-異端モゲコ
+Defect Mogeko
 「お前を･････････････殺す！」
 ##
 
@@ -37,7 +37,7 @@ King mogeko
 
 
 #Message# (34)
-異端モゲコ
+Defect Mogeko
 「俺は、諦めない」
 ##
 

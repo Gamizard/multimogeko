@@ -1,7 +1,7 @@
 ﻿**********Event1********** (0,0) - EV0001
 -----Page1-----
 #Message# (3)
-異端モゲコ
+Defect Mogeko
 「全て･･･････････終わりにしよう」
 ##
 
@@ -13,19 +13,19 @@ King mogeko
 
 
 #Message# (16)
-異端モゲコ
+Defect Mogeko
 「････････････。」
 ##
 
 
 #Message# (19)
-異端モゲコ
+Defect Mogeko
 「･･･････････。」
 ##
 
 
 #Message# (23)
-異端モゲコ
+Defect Mogeko
 「･････････････････････\.\.！？」
 ##
 
@@ -36,7 +36,7 @@ King mogeko
 
 
 #Message# (30)
-異端モゲコ
+Defect Mogeko
 「な････なんだ？！
 　このッ･････。」
 ##
@@ -55,7 +55,7 @@ King mogeko
 
 
 #Message# (41)
-異端モゲコ
+Defect Mogeko
 「ッ！！」
 ##
 
@@ -73,7 +73,7 @@ King mogeko
 
 
 #Message# (53)
-異端モゲコ
+Defect Mogeko
 「な」
 ##
 

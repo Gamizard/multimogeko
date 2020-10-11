@@ -7,7 +7,7 @@ Yonaka
 
 
 #Message# (6)
-異端モゲコ
+Defect Mogeko
 「なんだ？」
 ##
 
@@ -26,19 +26,19 @@ Yonaka
 
 
 #Message# (15)
-異端モゲコ
+Defect Mogeko
 「･･････････。」
 ##
 
 
 #Message# (17)
-異端モゲコ
+Defect Mogeko
 「････そうだな。」
 ##
 
 
 #Message# (19)
-異端モゲコ
+Defect Mogeko
 「ある意味じゃここが一番恐ろしい
 　階かもしれん。」
 ##
@@ -51,14 +51,14 @@ Yonaka
 
 
 #Message# (26)
-異端モゲコ
+Defect Mogeko
 「そうだな･･･そろそろ説明して
 　おいたほうがいいだろうな」
 ##
 
 
 #Message# (29)
-異端モゲコ
+Defect Mogeko
 「････進みながら話そう」
 ##
 

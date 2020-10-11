@@ -27,7 +27,7 @@ Yonaka
 
 
 #Message# (41)
-異端モゲコ
+Defect Mogeko
 「ヤツが････\.\.さっき話した
 　もげこ王、\.\.この世界の創造主だ」
 ##
@@ -69,13 +69,13 @@ King mogeko
 
 
 #Message# (64)
-異端モゲコ
+Defect Mogeko
 「･････････････。」
 ##
 
 
 #Message# (66)
-異端モゲコ
+Defect Mogeko
 「貴様！図書館を何処へやった。\.\.
 　お前はこの領域には干渉できないはず」
 ##
@@ -101,7 +101,7 @@ King mogeko
 
 
 #Message# (79)
-異端モゲコ
+Defect Mogeko
 「なんてことを････！」
 ##
 
@@ -114,7 +114,7 @@ King mogeko
 
 
 #Message# (86)
-異端モゲコ
+Defect Mogeko
 「勝手なことをぬかしやがるぜ･･･」
 ##
 
@@ -133,13 +133,13 @@ King mogeko
 
 
 #Message# (95)
-異端モゲコ
+Defect Mogeko
 「･･･････････。」
 ##
 
 
 #Message# (98)
-異端モゲコ
+Defect Mogeko
 「嫌だね！」
 ##
 

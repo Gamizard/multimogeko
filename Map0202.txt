@@ -7,13 +7,13 @@ Yonaka
 
 
 #Message# (5)
-異端モゲコ
+Defect Mogeko
 「よく昔ここに来たものだ･･･。」
 ##
 
 
 #Message# (7)
-異端モゲコ
+Defect Mogeko
 「よし。これだな。」
 ##
 
@@ -25,7 +25,7 @@ Yonaka
 
 
 #Message# (17)
-異端モゲコ
+Defect Mogeko
 「これさえあれば
 　あの化け物はイチコロだな。」
 ##
@@ -39,7 +39,7 @@ Yonaka
 
 
 #Message# (25)
-異端モゲコ
+Defect Mogeko
 「まあいい。用は済んだ。
 　先刻の場所まで戻ろう。」
 ##
@@ -48,7 +48,7 @@ Yonaka
 
 -----Page2-----
 #Message# (2)
-異端モゲコ
+Defect Mogeko
 「さあ、戻ろう。」
 ##
 

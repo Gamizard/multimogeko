@@ -1,7 +1,7 @@
 ﻿**********Event1********** (10,10) - EV0001
 -----Page1-----
 #Message# (2)
-異端モゲコ
+Defect Mogeko
 「行こうぜ。」
 ##
 
@@ -44,7 +44,7 @@
 
 
 #Message# (9)
-異端モゲコ
+Defect Mogeko
 「久しぶりだな、血の精霊。」
 ##
 
@@ -68,7 +68,7 @@
 
 
 #Message# (20)
-異端モゲコ
+Defect Mogeko
 「いや、死ぬ予定だったんだけど、
 　コイツが。」
 ##
@@ -105,7 +105,7 @@ Yonaka
 
 
 #Message# (37)
-異端モゲコ
+Defect Mogeko
 「ああ。」
 ##
 
@@ -124,13 +124,13 @@ Yonaka
 
 
 #Message# (46)
-異端モゲコ
+Defect Mogeko
 「･･･････。」
 ##
 
 
 #Message# (48)
-異端モゲコ
+Defect Mogeko
 「わかっている。」
 ##
 
@@ -149,7 +149,7 @@ Yonaka
 
 
 #Message# (63)
-異端モゲコ
+Defect Mogeko
 「助かるよ。」
 ##
 

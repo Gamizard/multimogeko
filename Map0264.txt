@@ -13,7 +13,7 @@
 
 
 #Message# (8)
-異端モゲコ
+Defect Mogeko
 「久しぶりだな」
 ##
 
@@ -25,7 +25,7 @@
 
 
 #Message# (14)
-異端モゲコ
+Defect Mogeko
 「モゲコッコ。
 　死んだかと思ったぜ」
 ##
@@ -44,7 +44,7 @@ Yonaka
 
 
 #Message# (28)
-異端モゲコ
+Defect Mogeko
 「特に意味はないらしい」
 ##
 
@@ -70,7 +70,7 @@ Yonaka
 
 
 #Message# (44)
-異端モゲコ
+Defect Mogeko
 「ヤツは一体何をするつもりなんだ？」
 ##
 
@@ -89,7 +89,7 @@ Yonaka
 
 
 #Message# (54)
-異端モゲコ
+Defect Mogeko
 「あいつの思い通りになんか
 　させるかよ･･･」
 ##
@@ -118,7 +118,7 @@ Yonaka
 
 
 #Message# (8)
-異端モゲコ
+Defect Mogeko
 「ああ、あいつあの時女の子が目の前に
 　いたから照れてたんだよ･･･」
 ##
@@ -132,7 +132,7 @@ Yonaka
 
 
 #Message# (16)
-異端モゲコ
+Defect Mogeko
 「そしてだ、モゲコッコ。\.\.
 　俺らがここに来たのは･･･」
 ##
@@ -158,13 +158,13 @@ Yonaka
 
 
 #Message# (36)
-異端モゲコ
+Defect Mogeko
 「悪いな。」
 ##
 
 
 #Message# (39)
-異端モゲコ
+Defect Mogeko
 「嬢ちゃん、これは便利な本でな･･･
 　これを使えばすぐ７階に行けるぞ」
 ##
@@ -177,7 +177,7 @@ Yonaka
 
 
 #Message# (47)
-異端モゲコ
+Defect Mogeko
 「なんだその疑いの目は」
 ##
 
@@ -190,7 +190,7 @@ Yonaka
 
 
 #Message# (54)
-異端モゲコ
+Defect Mogeko
 「大丈夫だろ、多分」
 ##
 
@@ -202,13 +202,13 @@ Yonaka
 
 
 #Message# (60)
-異端モゲコ
+Defect Mogeko
 「よし、じゃあ早速使って･･･」
 ##
 
 
 #Message# (68)
-異端モゲコ
+Defect Mogeko
 「それっ」
 ##
 
@@ -221,7 +221,7 @@ Yonaka
 
 
 #Message# (80)
-異端モゲコ
+Defect Mogeko
 「大丈夫だ、すぐ終わ―――」
 ##
 
@@ -233,7 +233,7 @@ Yonaka
 
 
 #Message# (89)
-異端モゲコ
+Defect Mogeko
 「なッ」
 ##
 

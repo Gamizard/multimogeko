@@ -1,20 +1,20 @@
 ﻿**********Event2********** (5,8) - EV0002
 -----Page1-----
 #Message# (2)
-異端モゲコ
+Defect Mogeko
 「そうそう、その鍵」
 ##
 
 
 #Message# (4)
-異端モゲコ
+Defect Mogeko
 「この城内でならどこでも使えるぜ\.\.
 　一部使えんが･･･」
 ##
 
 
 #Message# (7)
-異端モゲコ
+Defect Mogeko
 「モゲコキャッスルの鍵は
 　ほぼ全部共通だからな」
 ##
@@ -28,7 +28,7 @@ Yonaka
 
 
 #Message# (15)
-異端モゲコ
+Defect Mogeko
 「俺に言うな････。」
 ##
 

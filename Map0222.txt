@@ -27,7 +27,7 @@ Yonaka
 
 
 #Message# (10)
-異端モゲコ
+Defect Mogeko
 「････････ッ！！」
 ##
 
@@ -46,7 +46,7 @@ Moge-ko
 
 
 #Message# (22)
-異端モゲコ
+Defect Mogeko
 「けっ！！\.\.
 　そうはいくかよ！！」
 ##
@@ -55,13 +55,13 @@ Moge-ko
 
 -----Page2-----
 #Message# (6)
-異端モゲコ
+Defect Mogeko
 「･･･････････。」
 ##
 
 
 #Message# (9)
-異端モゲコ
+Defect Mogeko
 「･･････････あ？」
 ##
 
@@ -92,19 +92,19 @@ Moge-ko
 
 
 #Message# (28)
-異端モゲコ
+Defect Mogeko
 「･････････････。」
 ##
 
 
 #Message# (30)
-異端モゲコ
+Defect Mogeko
 「嬢ちゃん」
 ##
 
 
 #Message# (33)
-異端モゲコ
+Defect Mogeko
 「やっぱ逃げよう」
 ##
 
@@ -123,7 +123,7 @@ Yonaka
 
 
 #Message# (44)
-異端モゲコ
+Defect Mogeko
 「ごめん。」
 ##
 
@@ -166,7 +166,7 @@ Yonaka
 
 
 #Message# (81)
-異端モゲコ
+Defect Mogeko
 「やばいな。\.\.割とやばい。」
 ##
 

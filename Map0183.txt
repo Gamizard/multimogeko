@@ -17,14 +17,14 @@ Yonaka
 
 
 #Message# (6)
-異端モゲコ
+Defect Mogeko
 「嬢ちゃん･･･もしもの時のために
 　ここで武器を調達だ。」
 ##
 
 
 #Message# (9)
-異端モゲコ
+Defect Mogeko
 「えーと、どの階
 　だったっけ･･･････。」
 ##
@@ -37,7 +37,7 @@ Yonaka
 
 
 #Message# (16)
-異端モゲコ
+Defect Mogeko
 「俺でも素手で勝てるか微妙だしな･･･」
 ##
 
@@ -50,41 +50,41 @@ Yonaka
 
 
 #Message# (23)
-異端モゲコ
+Defect Mogeko
 「あ、言ってなかったっけ。」
 ##
 
 
 #Message# (26)
-異端モゲコ
+Defect Mogeko
 「この階人食いのデカい化け物がいるから
 　危ねーんだ。」
 ##
 
 
 #Message# (29)
-異端モゲコ
+Defect Mogeko
 「まあ、もげ子と比べたら
 　大したことねーけど･･･」
 ##
 
 
 #Message# (32)
-異端モゲコ
+Defect Mogeko
 「多分檻に入ってるし。
 　ほら、万が一を考えてだな。」
 ##
 
 
 #Message# (35)
-異端モゲコ
+Defect Mogeko
 「あとここは病院だが武器もおもちゃも
 　沢山そろってるぞ。」
 ##
 
 
 #Message# (39)
-異端モゲコ
+Defect Mogeko
 「どうした？」
 ##
 
@@ -98,14 +98,14 @@ Yonaka
 
 -----Page2-----
 #Message# (2)
-異端モゲコ
+Defect Mogeko
 「やべー何階だったっけ･･･
 　とりあえず此処は4階しかねーから」
 ##
 
 
 #Message# (5)
-異端モゲコ
+Defect Mogeko
 「適当に周ってりゃみつかるだろー」
 ##
 

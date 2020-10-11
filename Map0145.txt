@@ -26,7 +26,7 @@ Yonaka
 
 
 #Message# (21)
-異端モゲコ
+Defect Mogeko
 「しまった････！！！
 　もげ子だ！！！！」
 ##
@@ -59,7 +59,7 @@ Moge-ko
 
 
 #Message# (40)
-異端モゲコ
+Defect Mogeko
 「貴様･･･いつから俺らの行動に
 　気付いていた！？」
 ##
@@ -73,7 +73,7 @@ Moge-ko
 
 
 #Message# (48)
-異端モゲコ
+Defect Mogeko
 「クソッ････俺としたことが･･･。」
 ##
 
@@ -105,7 +105,7 @@ Yonaka
 
 
 #Message# (65)
-異端モゲコ
+Defect Mogeko
 「嬢ちゃん、見た目に騙されるな。
 　こいつは――――」
 ##
@@ -157,7 +157,7 @@ Yonaka
 
 
 #Message# (92)
-異端モゲコ
+Defect Mogeko
 「何言ってんだお前」
 ##
 
@@ -176,7 +176,7 @@ Yonaka
 
 
 #Message# (104)
-異端モゲコ
+Defect Mogeko
 「！！」
 ##
 

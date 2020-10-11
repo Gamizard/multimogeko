@@ -7,7 +7,7 @@ Yonaka
 
 
 #Message# (5)
-異端モゲコ
+Defect Mogeko
 「いや、違う･･･
 　ここは･･･。」
 ##
@@ -24,7 +24,7 @@ Yonaka
 
 
 #Message# (5)
-異端モゲコ
+Defect Mogeko
 「いや、さっきのはもげ子じゃない
 　もげ子のかけらだろう」
 ##
@@ -37,7 +37,7 @@ Yonaka
 
 
 #Message# (12)
-異端モゲコ
+Defect Mogeko
 「やつの10分の1程度の力しかないものだ
 　本物じゃなくて助かったな･･･」
 ##
@@ -50,14 +50,14 @@ Yonaka
 
 
 #Message# (19)
-異端モゲコ
+Defect Mogeko
 「ところでさっきそのかけらが
 　落としてった鍵」
 ##
 
 
 #Message# (22)
-異端モゲコ
+Defect Mogeko
 「こっちのドアに使えそうだぜ」
 ##
 

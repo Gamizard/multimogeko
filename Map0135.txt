@@ -1,13 +1,13 @@
 ﻿**********Event4********** (0,0) - EV0004
 -----Page1-----
 #Message# (4)
-異端モゲコ
+Defect Mogeko
 「･････。」
 ##
 
 
 #Message# (8)
-異端モゲコ
+Defect Mogeko
 「この階は、ある人物によって
 　支配されている」
 ##
@@ -20,13 +20,13 @@ Yonaka
 
 
 #Message# (15)
-異端モゲコ
+Defect Mogeko
 「･･････。」
 ##
 
 
 #Message# (17)
-異端モゲコ
+Defect Mogeko
 「そう･･･\.\.\.『もげ子』だ。」
 ##
 
@@ -38,7 +38,7 @@ Yonaka
 
 
 #Message# (23)
-異端モゲコ
+Defect Mogeko
 「････････。」
 ##
 
@@ -51,7 +51,7 @@ Yonaka
 
 
 #Message# (30)
-異端モゲコ
+Defect Mogeko
 「違う。\.\.『モゲコ』\.\.じゃない。\.\.
 　『もげ子』\.\.だ。」
 ##
@@ -65,19 +65,19 @@ Yonaka
 
 
 #Message# (38)
-異端モゲコ
+Defect Mogeko
 「いやだから俺に言うなよ･･･。」
 ##
 
 
 #Message# (41)
-異端モゲコ
+Defect Mogeko
 「そのもげ子はとんだ極悪人でな･･･」
 ##
 
 
 #Message# (43)
-異端モゲコ
+Defect Mogeko
 「奴との接触は極力避けたい。
 　勝てる望みはほぼゼロだ。」
 ##
@@ -91,19 +91,19 @@ Yonaka
 
 
 #Message# (51)
-異端モゲコ
+Defect Mogeko
 「････わからん」
 ##
 
 
 #Message# (53)
-異端モゲコ
+Defect Mogeko
 「奴に関する情報は一切不明だ」
 ##
 
 
 #Message# (55)
-異端モゲコ
+Defect Mogeko
 「だが、普通の精神状態ではない事だけは
 　確かだ･･･」
 ##
@@ -117,7 +117,7 @@ Yonaka
 
 
 #Message# (63)
-異端モゲコ
+Defect Mogeko
 「あと、奴は気に入らない者を磔にして
 　じわじわ殺すのが趣味だ。」
 ##
@@ -130,7 +130,7 @@ Yonaka
 
 
 #Message# (70)
-異端モゲコ
+Defect Mogeko
 「そしてその者の肉を喰らい
 　恍惚とした表情で笑うらしい」
 ##
@@ -143,7 +143,7 @@ Yonaka
 
 
 #Message# (77)
-異端モゲコ
+Defect Mogeko
 「簡単に殺すのは好まんらしく、
 　じわじわと甚振り殺すらしい･･･」
 ##
@@ -156,14 +156,14 @@ Yonaka
 
 
 #Message# (84)
-異端モゲコ
+Defect Mogeko
 「まあ俺も実際会ったことはないし
 　なんとも言えんな･･･」
 ##
 
 
 #Message# (87)
-異端モゲコ
+Defect Mogeko
 「奴の行動パターンは不明だ。
 　慎重に進むしかない････。」
 ##

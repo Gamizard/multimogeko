@@ -13,7 +13,7 @@ Mogeko
 
 
 #Message# (9)
-異端モゲコ
+Defect Mogeko
 「ばーーか。お前らがちんたらやってる
 　うちに7階に逃がしたぜ」
 ##
@@ -26,7 +26,7 @@ Mogeko
 
 
 #Message# (16)
-異端モゲコ
+Defect Mogeko
 「今頃はとっくに元の世界だろうなぁ」
 ##
 
@@ -45,7 +45,7 @@ Mogeko
 
 
 #Message# (26)
-異端モゲコ
+Defect Mogeko
 「知るか、そんなモン」
 ##
 
@@ -78,7 +78,7 @@ Mogeko
 
 -----Page2-----
 #Message# (2)
-異端モゲコ
+Defect Mogeko
 「逃げる？
 　もう逃げるのは終いだ･･･。」
 ##
@@ -91,13 +91,13 @@ Mogeko
 
 
 #Message# (9)
-異端モゲコ
+Defect Mogeko
 「遅い！」
 ##
 
 
 #Message# (20)
-異端モゲコ
+Defect Mogeko
 「遅いぜ。」
 ##
 
@@ -115,7 +115,7 @@ Mogeko
 
 
 #Message# (35)
-異端モゲコ
+Defect Mogeko
 「･･････････。」
 ##
 

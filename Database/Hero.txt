@@ -9,7 +9,7 @@ Yonaka
 
 *****Entry2*****
 #Name# [12]
-異端モゲコ
+Defect Mogeko
 
 #Title# [12]
 異端者

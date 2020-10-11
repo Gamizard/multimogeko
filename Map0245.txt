@@ -7,13 +7,13 @@ Yonaka
 
 
 #Message# (5)
-異端モゲコ
+Defect Mogeko
 「･･･なんかよくわからんところに出たな」
 ##
 
 
 #Message# (7)
-異端モゲコ
+Defect Mogeko
 「とりあえず進むか」
 ##
 
@@ -36,7 +36,7 @@ Yonaka
 
 
 #Message# (6)
-異端モゲコ
+Defect Mogeko
 「･････････････････････。」
 ##
 

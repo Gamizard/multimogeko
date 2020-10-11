@@ -7,7 +7,7 @@
 
 
 #Message# (7)
-異端モゲコ
+Defect Mogeko
 「もっふる！\.\.
 　無事だったか！」
 ##
@@ -33,13 +33,13 @@ Yonaka
 
 
 #Message# (21)
-異端モゲコ
+Defect Mogeko
 「嬢ちゃん、こいつはもっふる。」
 ##
 
 
 #Message# (23)
-異端モゲコ
+Defect Mogeko
 「先刻話した･･･\.\.
 　７匹のモゲコの5匹目だ。」
 ##
@@ -59,13 +59,13 @@ Yonaka
 
 
 #Message# (33)
-異端モゲコ
+Defect Mogeko
 「助かるぞ･･･もっふる。」
 ##
 
 
 #Message# (35)
-異端モゲコ
+Defect Mogeko
 「ヤツのところに行けば7階まで
 　すぐだからな。」
 ##
@@ -85,13 +85,13 @@ Yonaka
 
 
 #Message# (46)
-異端モゲコ
+Defect Mogeko
 「そうだな、特に考えてなかった･･･」
 ##
 
 
 #Message# (48)
-異端モゲコ
+Defect Mogeko
 「外の世界で行ってみたいところにでも
 　旅をするさ」
 ##
@@ -138,7 +138,7 @@ Yonaka
 
 
 #Message# (73)
-異端モゲコ
+Defect Mogeko
 「うるせえ」
 ##
 

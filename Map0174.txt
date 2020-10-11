@@ -13,7 +13,7 @@ Moge-ko
 
 
 #Message# (12)
-異端モゲコ
+Defect Mogeko
 「ぐぁ･･･あ･･･\.\.
 　き、貴様･････････。」
 ##
@@ -51,7 +51,7 @@ Yonaka
 
 
 #Message# (40)
-異端モゲコ
+Defect Mogeko
 「！\.\.
 　嬢ちゃん！逃げろ！！」
 ##

@@ -13,7 +13,7 @@ Yonaka
 
 
 #Message# (31)
-異端モゲコ
+Defect Mogeko
 「ぐッ･････････！」
 ##
 
@@ -37,7 +37,7 @@ Yonaka
 
 
 #Message# (47)
-異端モゲコ
+Defect Mogeko
 「･････････。」
 ##
 
@@ -49,7 +49,7 @@ King mogeko
 
 
 #Message# (53)
-異端モゲコ
+Defect Mogeko
 「･･･････････。」
 ##
 
@@ -74,7 +74,7 @@ Yonaka
 
 
 #Message# (66)
-異端モゲコ
+Defect Mogeko
 「････････ッ」
 ##
 
@@ -87,13 +87,13 @@ King mogeko
 
 
 #Message# (74)
-異端モゲコ
+Defect Mogeko
 「･････････」
 ##
 
 
 #Message# (78)
-異端モゲコ
+Defect Mogeko
 「断る！！！！」
 ##
 

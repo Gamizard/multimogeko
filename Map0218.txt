@@ -1,13 +1,13 @@
 ﻿**********Event1********** (0,0) - EV0001
 -----Page1-----
 #Message# (6)
-異端モゲコ
+Defect Mogeko
 「････。」
 ##
 
 
 #Message# (8)
-異端モゲコ
+Defect Mogeko
 「嬢ちゃん」
 ##
 
@@ -19,7 +19,7 @@ Yonaka
 
 
 #Message# (14)
-異端モゲコ
+Defect Mogeko
 「俺はな････････････。」
 ##
 
@@ -38,7 +38,7 @@ Yonaka
 
 
 #Message# (29)
-異端モゲコ
+Defect Mogeko
 「その声････もげ子！！！」
 ##
 
@@ -56,13 +56,13 @@ Moge-ko
 
 
 #Message# (37)
-異端モゲコ
+Defect Mogeko
 「何ィッ･･･････！！！」
 ##
 
 
 #Message# (47)
-異端モゲコ
+Defect Mogeko
 「チッ！
 　数が多すぎる････！！！」
 ##
@@ -75,7 +75,7 @@ Yonaka
 
 
 #Message# (54)
-異端モゲコ
+Defect Mogeko
 「嬢ちゃん！
 　とにかく逃げるぞ！！」
 ##

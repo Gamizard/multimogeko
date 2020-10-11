@@ -14,7 +14,7 @@ Moge-ko
 
 
 #Message# (10)
-異端モゲコ
+Defect Mogeko
 「クソッ　\.\.\.化け物め」
 ##
 
@@ -82,7 +82,7 @@ Moge-ko
 
 
 #Message# (45)
-異端モゲコ
+Defect Mogeko
 「キチガイが････！！！」
 ##
 
@@ -196,13 +196,13 @@ Yonaka
 
 
 #Message# (107)
-異端モゲコ
+Defect Mogeko
 「こいつはやべーな･･･」
 ##
 
 
 #Message# (109)
-異端モゲコ
+Defect Mogeko
 「嬢ちゃん、走るぞ！」
 ##
 

@@ -7,28 +7,28 @@
 
 
 #Message# (14)
-異端モゲコ
+Defect Mogeko
 「嬢ちゃん！
 　さっきワープを邪魔されちまったが」
 ##
 
 
 #Message# (17)
-異端モゲコ
+Defect Mogeko
 「ここは７階に通じる場所のすぐ
 　近くだ！」
 ##
 
 
 #Message# (20)
-異端モゲコ
+Defect Mogeko
 「こうなったら俺も意地だ
 　奴等には絶対負けねえ。」
 ##
 
 
 #Message# (23)
-異端モゲコ
+Defect Mogeko
 「全力で逃げるぞ！」
 ##
 
@@ -41,7 +41,7 @@ Yonaka
 
 
 #Message# (30)
-異端モゲコ
+Defect Mogeko
 「････何が？」
 ##
 

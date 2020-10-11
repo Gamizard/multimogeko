@@ -1,7 +1,7 @@
 ﻿**********Event55********** (0,0) - EV0055
 -----Page1-----
 #Message# (4)
-異端モゲコ
+Defect Mogeko
 「･････････････。」
 ##
 
@@ -19,7 +19,7 @@ King mogeko
 
 
 #Message# (13)
-異端モゲコ
+Defect Mogeko
 「････････････。」
 ##
 
@@ -37,7 +37,7 @@ King mogeko
 
 
 #Message# (23)
-異端モゲコ
+Defect Mogeko
 「･･･････お前らには」
 ##
 
@@ -49,7 +49,7 @@ King mogeko
 
 
 #Message# (30)
-異端モゲコ
+Defect Mogeko
 「･･･････お前らには
 　わかるまい･･････････。」
 ##

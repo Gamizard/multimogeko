@@ -8,7 +8,7 @@
 
 
 #Message# (11)
-異端モゲコ
+Defect Mogeko
 「････ああ」
 ##
 
@@ -27,7 +27,7 @@ Yonaka
 
 
 #Message# (21)
-異端モゲコ
+Defect Mogeko
 「･･･････。」
 ##
 
@@ -80,7 +80,7 @@ Yonaka
 **********Event9********** (10,9) - EV0009
 -----Page1-----
 #Message# (2)
-異端モゲコ
+Defect Mogeko
 「あと少し、だな････。」
 ##
 

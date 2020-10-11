@@ -1,7 +1,7 @@
 ﻿**********Event1********** (11,10) - EV0001
 -----Page1-----
 #Message# (2)
-異端モゲコ
+Defect Mogeko
 「･･･････････。」
 ##
 
@@ -17,7 +17,7 @@
 
 
 #Message# (6)
-異端モゲコ
+Defect Mogeko
 「モゲコッコ！！」
 ##
 
@@ -43,7 +43,7 @@ Yonaka
 
 
 #Message# (20)
-異端モゲコ
+Defect Mogeko
 「大丈夫か？！」
 ##
 
@@ -55,7 +55,7 @@ Yonaka
 
 
 #Message# (26)
-異端モゲコ
+Defect Mogeko
 「何故俺をかばった！」
 ##
 
@@ -75,7 +75,7 @@ Yonaka
 
 
 #Message# (36)
-異端モゲコ
+Defect Mogeko
 「しかし･･･」
 ##
 
@@ -88,13 +88,13 @@ Yonaka
 
 
 #Message# (45)
-異端モゲコ
+Defect Mogeko
 「･････････。」
 ##
 
 
 #Message# (47)
-異端モゲコ
+Defect Mogeko
 「嬢ちゃん、行こう･･･」
 ##
 

@@ -211,13 +211,13 @@
 **********Event30********** (16,11) - EV0030
 -----Page1-----
 #Message# (2)
-異端モゲコ
+Defect Mogeko
 「････････････」
 ##
 
 
 #Message# (4)
-異端モゲコ
+Defect Mogeko
 「行こう」
 ##
 

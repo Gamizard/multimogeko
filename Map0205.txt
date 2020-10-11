@@ -7,7 +7,7 @@ Yonaka
 
 
 #Message# (7)
-異端モゲコ
+Defect Mogeko
 「嬢ちゃん」
 ##
 
@@ -19,7 +19,7 @@ Yonaka
 
 
 #Message# (15)
-異端モゲコ
+Defect Mogeko
 「今まで、階ごとに出会ってきた
 　特別なモゲコたちがいただろ？」
 ##
@@ -39,13 +39,13 @@ Yonaka
 
 
 #Message# (25)
-異端モゲコ
+Defect Mogeko
 「そうだ」
 ##
 
 
 #Message# (27)
-異端モゲコ
+Defect Mogeko
 「･･･丁度いい。話そう。\.\.モゲコ
 　キャッスルの誕生に纏わる話を･･･。」
 ##
@@ -104,7 +104,7 @@ Yonaka
 
 
 #Message# (69)
-異端モゲコ
+Defect Mogeko
 「これがモゲコキャッスルの創世記だ。\.\.\.\.
 　ん？\.\.どうしたんだ嬢ちゃん」
 ##
@@ -125,13 +125,13 @@ Yonaka
 
 
 #Message# (82)
-異端モゲコ
+Defect Mogeko
 「････････それはな」
 ##
 
 
 #Message# (86)
-異端モゲコ
+Defect Mogeko
 「『もげこ』だ。」
 ##
 

@@ -1,7 +1,7 @@
 ﻿**********Event17********** (8,13) - EV0017
 -----Page1-----
 #Message# (2)
-異端モゲコ
+Defect Mogeko
 「こっちだ。」
 ##
 
@@ -17,7 +17,7 @@ Yonaka
 
 
 #Message# (6)
-異端モゲコ
+Defect Mogeko
 「おい、大丈夫か？」
 ##
 
@@ -29,13 +29,13 @@ Yonaka
 
 
 #Message# (12)
-異端モゲコ
+Defect Mogeko
 「しっかりしろ」
 ##
 
 
 #Message# (14)
-異端モゲコ
+Defect Mogeko
 「この階だけエレベーターがついている
 　上に行くにはそこの扉の向こうだ」
 ##
@@ -48,7 +48,7 @@ Yonaka
 
 
 #Message# (23)
-異端モゲコ
+Defect Mogeko
 「もげ子が作るよう命令したらしい」
 ##
 
@@ -163,7 +163,7 @@ Yonaka
 **********Event28********** (9,81) - EV0028
 -----Page1-----
 #Message# (2)
-異端モゲコ
+Defect Mogeko
 「こりゃひどいな･･･」
 ##
 

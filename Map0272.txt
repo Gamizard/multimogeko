@@ -14,7 +14,7 @@ Yonaka
 
 
 #Message# (14)
-異端モゲコ
+Defect Mogeko
 「はは･･･嬢ちゃん、
 　なんで泣いてんだよ」
 ##
@@ -28,7 +28,7 @@ Yonaka
 
 
 #Message# (22)
-異端モゲコ
+Defect Mogeko
 「嬢ちゃんは全然悪くねえよ」
 ##
 
@@ -41,14 +41,14 @@ Yonaka
 
 
 #Message# (29)
-異端モゲコ
+Defect Mogeko
 「俺が好きで守ってたんだから
 　嬢ちゃんは気にしなくていいんだよ」
 ##
 
 
 #Message# (32)
-異端モゲコ
+Defect Mogeko
 「げふッ･････。」
 ##
 
@@ -60,19 +60,19 @@ Yonaka
 
 
 #Message# (38)
-異端モゲコ
+Defect Mogeko
 「････嬢ちゃん」
 ##
 
 
 #Message# (40)
-異端モゲコ
+Defect Mogeko
 「さっき･･･もげこが･･･」
 ##
 
 
 #Message# (42)
-異端モゲコ
+Defect Mogeko
 「俺のことを『裏モゲコ』と
 　呼んでいただろう？」
 ##
@@ -85,13 +85,13 @@ Yonaka
 
 
 #Message# (49)
-異端モゲコ
+Defect Mogeko
 「薄々気付かれていただろうが･･･。」
 ##
 
 
 #Message# (51)
-異端モゲコ
+Defect Mogeko
 「そうだ･･･7匹のモゲコの、
 　七番目の、最後のモゲコは俺だ」
 ##
@@ -104,20 +104,20 @@ Yonaka
 
 
 #Message# (58)
-異端モゲコ
+Defect Mogeko
 「俺の本当の名は･･･裏モゲコ」
 ##
 
 
 #Message# (60)
-異端モゲコ
+Defect Mogeko
 「その名の通り･･･俺は、ヤツの、
 　もげこの裏の存在だ。」
 ##
 
 
 #Message# (63)
-異端モゲコ
+Defect Mogeko
 「ぐッ･･･がはっ」
 ##
 
@@ -130,20 +130,20 @@ Yonaka
 
 
 #Message# (70)
-異端モゲコ
+Defect Mogeko
 「だめだ！
 　嬢ちゃんに伝えねばならん･･･」
 ##
 
 
 #Message# (73)
-異端モゲコ
+Defect Mogeko
 「･･･････。」
 ##
 
 
 #Message# (75)
-異端モゲコ
+Defect Mogeko
 「俺は･･･あの頃･･･」
 ##
 
@@ -151,32 +151,32 @@ Yonaka
 
 -----Page2-----
 #Message# (4)
-異端モゲコ
+Defect Mogeko
 「俺は･･･あれから、何度も抵抗した。」
 ##
 
 
 #Message# (6)
-異端モゲコ
+Defect Mogeko
 「何匹もモゲコを殺し･･･」
 ##
 
 
 #Message# (8)
-異端モゲコ
+Defect Mogeko
 「体が傷だらけになっても･･･
 　片耳が千切れても･･･」
 ##
 
 
 #Message# (12)
-異端モゲコ
+Defect Mogeko
 「そしてある日気付いた」
 ##
 
 
 #Message# (14)
-異端モゲコ
+Defect Mogeko
 「俺のやっていることはまるで
 　無意味だと。」
 ##
@@ -189,59 +189,59 @@ Yonaka
 
 
 #Message# (21)
-異端モゲコ
+Defect Mogeko
 「全て運命によって決められていたと
 　言うのに･･･俺は･･･」
 ##
 
 
 #Message# (24)
-異端モゲコ
+Defect Mogeko
 「俺は、諦められなかった･･･
 　どこかで希望の光を信じていた･･･」
 ##
 
 
 #Message# (27)
-異端モゲコ
+Defect Mogeko
 「だが･･･それは、この手を血に染めて
 　まで貫くべき事なのだろうか」
 ##
 
 
 #Message# (30)
-異端モゲコ
+Defect Mogeko
 「そこまでして意地を張るべき
 　ものだったのか。」
 ##
 
 
 #Message# (33)
-異端モゲコ
+Defect Mogeko
 「俺は････」
 ##
 
 
 #Message# (35)
-異端モゲコ
+Defect Mogeko
 「････････。」
 ##
 
 
 #Message# (39)
-異端モゲコ
+Defect Mogeko
 「俺は諦めた」
 ##
 
 
 #Message# (41)
-異端モゲコ
+Defect Mogeko
 「全てを諦めた」
 ##
 
 
 #Message# (43)
-異端モゲコ
+Defect Mogeko
 「足掻くのもやめた･･･」
 ##
 
@@ -253,20 +253,20 @@ Yonaka
 
 
 #Message# (49)
-異端モゲコ
+Defect Mogeko
 「俺は････げふッ･･･
 　もう、どうでもよかった･･･」
 ##
 
 
 #Message# (52)
-異端モゲコ
+Defect Mogeko
 「死んでもいいと思っていた･･･」
 ##
 
 
 #Message# (54)
-異端モゲコ
+Defect Mogeko
 「だが･･･そんな時に嬢ちゃんが
 　やってきたんだ」
 ##
@@ -279,20 +279,20 @@ Yonaka
 
 
 #Message# (65)
-異端モゲコ
+Defect Mogeko
 「嬢ちゃんが･･･俺の、重い足かせを解く
 　鍵を持ってきてくれた時」
 ##
 
 
 #Message# (68)
-異端モゲコ
+Defect Mogeko
 「俺はまた･･･信じてみたくなった」
 ##
 
 
 #Message# (70)
-異端モゲコ
+Defect Mogeko
 「希望も･･･自分も。」
 ##
 
@@ -304,27 +304,27 @@ Yonaka
 
 
 #Message# (76)
-異端モゲコ
+Defect Mogeko
 「嬢ちゃん、俺は･･･嬢ちゃんの望む
 　世界のことを･･･知らない」
 ##
 
 
 #Message# (79)
-異端モゲコ
+Defect Mogeko
 「それが本当に正しい道なのかすらも、
 　俺に判断することはできない」
 ##
 
 
 #Message# (82)
-異端モゲコ
+Defect Mogeko
 「だが･･･。」
 ##
 
 
 #Message# (84)
-異端モゲコ
+Defect Mogeko
 「嬢ちゃんが望むなら･･･俺は
 　そこまで導こう」
 ##
@@ -337,13 +337,13 @@ Yonaka
 
 
 #Message# (91)
-異端モゲコ
+Defect Mogeko
 「････だから」
 ##
 
 
 #Message# (96)
-異端モゲコ
+Defect Mogeko
 「もう、行かねーと。」
 ##
 
@@ -355,19 +355,19 @@ Yonaka
 
 
 #Message# (106)
-異端モゲコ
+Defect Mogeko
 「いいか、よく聞け」
 ##
 
 
 #Message# (108)
-異端モゲコ
+Defect Mogeko
 「俺が奴等の気を引かせる」
 ##
 
 
 #Message# (110)
-異端モゲコ
+Defect Mogeko
 「暫くして様子を見たら
 　お前は7階へ行け」
 ##
@@ -380,7 +380,7 @@ Yonaka
 
 
 #Message# (117)
-異端モゲコ
+Defect Mogeko
 「大丈夫だ･･･ここからなら
 　一人でも迷わないだろう」
 ##
@@ -394,21 +394,21 @@ Yonaka
 
 
 #Message# (125)
-異端モゲコ
+Defect Mogeko
 「無理だ･･･血のにおいで、じきここも
 　見つかる」
 ##
 
 
 #Message# (128)
-異端モゲコ
+Defect Mogeko
 「嬢ちゃんのにおいは大丈夫だろう･･･
 　俺の血のにおいで隠されるさ」
 ##
 
 
 #Message# (135)
-異端モゲコ
+Defect Mogeko
 「あーあ、俺の血そんなについてたの･･･
 　嬢ちゃんの服が汚れちまったな」
 ##
@@ -421,7 +421,7 @@ Yonaka
 
 
 #Message# (144)
-異端モゲコ
+Defect Mogeko
 「悪いな。最後まで付き添えなくて･･･」
 ##
 
@@ -440,7 +440,7 @@ Yonaka
 
 
 #Message# (154)
-異端モゲコ
+Defect Mogeko
 「うッ･･･がはッ･･･げふッ･･･」
 ##
 
@@ -452,13 +452,13 @@ Yonaka
 
 
 #Message# (167)
-異端モゲコ
+Defect Mogeko
 「だめだ！！」
 ##
 
 
 #Message# (169)
-異端モゲコ
+Defect Mogeko
 「お前は逃げるんだ！！！」
 ##
 
@@ -470,14 +470,14 @@ Yonaka
 
 
 #Message# (175)
-異端モゲコ
+Defect Mogeko
 「嬢ちゃん！ここで･･･お前が捕まったら
 　俺のやってきたことは無駄になる」
 ##
 
 
 #Message# (179)
-異端モゲコ
+Defect Mogeko
 「少しでも･･･少しでも俺の気持ちを
 　思うなら言うことを聞け！！！」
 ##
@@ -490,20 +490,20 @@ Yonaka
 
 
 #Message# (186)
-異端モゲコ
+Defect Mogeko
 「ぐ････！ガフッ･･･
 　ハァッ･･･ハァ････。」
 ##
 
 
 #Message# (189)
-異端モゲコ
+Defect Mogeko
 「･････････。」
 ##
 
 
 #Message# (192)
-異端モゲコ
+Defect Mogeko
 「･･･････な？」
 ##
 
@@ -516,7 +516,7 @@ Yonaka
 
 
 #Message# (200)
-異端モゲコ
+Defect Mogeko
 「･･･わかって･･･くれたか･･･？」
 ##
 
@@ -528,7 +528,7 @@ Yonaka
 
 
 #Message# (206)
-異端モゲコ
+Defect Mogeko
 「ありがとな」
 ##
 
@@ -554,25 +554,25 @@ Yonaka
 
 
 #Message# (219)
-異端モゲコ
+Defect Mogeko
 「俺も嬢ちゃんに心が救われたんだぜ」
 ##
 
 
 #Message# (221)
-異端モゲコ
+Defect Mogeko
 「･････････。」
 ##
 
 
 #Message# (223)
-異端モゲコ
+Defect Mogeko
 「本当にな･････････。」
 ##
 
 
 #Message# (225)
-異端モゲコ
+Defect Mogeko
 「･････････。」
 ##
 
@@ -584,13 +584,13 @@ Yonaka
 
 
 #Message# (232)
-異端モゲコ
+Defect Mogeko
 「じゃあ、そろそろ行くか･･･」
 ##
 
 
 #Message# (234)
-異端モゲコ
+Defect Mogeko
 「早くしねーと･･･あいつら来るし･･･
 　俺も持たん････」
 ##
@@ -603,7 +603,7 @@ Yonaka
 
 
 #Message# (241)
-異端モゲコ
+Defect Mogeko
 「嬢ちゃん、元気でな」
 ##
 
@@ -615,7 +615,7 @@ Yonaka
 
 
 #Message# (247)
-異端モゲコ
+Defect Mogeko
 「ちゃんと、言った通りにしろよ？」
 ##
 
@@ -627,7 +627,7 @@ Yonaka
 
 
 #Message# (253)
-異端モゲコ
+Defect Mogeko
 「わかったか？」
 ##
 
@@ -639,25 +639,25 @@ Yonaka
 
 
 #Message# (260)
-異端モゲコ
+Defect Mogeko
 「･･････ふふ」
 ##
 
 
 #Message# (263)
-異端モゲコ
+Defect Mogeko
 「･･････。」
 ##
 
 
 #Message# (271)
-異端モゲコ
+Defect Mogeko
 「･･････。」
 ##
 
 
 #Message# (278)
-異端モゲコ
+Defect Mogeko
 「じゃあな、ヨナカ･･･････。」
 ##
 

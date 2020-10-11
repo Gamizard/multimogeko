@@ -7,13 +7,13 @@ Yonaka
 
 
 #Message# (5)
-異端モゲコ
+Defect Mogeko
 「いいや、違う」
 ##
 
 
 #Message# (9)
-異端モゲコ
+Defect Mogeko
 「開けたまごーーー！！」
 ##
 
@@ -25,7 +25,7 @@ Yonaka
 
 
 #Message# (23)
-異端モゲコ
+Defect Mogeko
 「よし。」
 ##
 
@@ -33,7 +33,7 @@ Yonaka
 
 -----Page2-----
 #Message# (2)
-異端モゲコ
+Defect Mogeko
 「さあ行くぞ」
 ##
 

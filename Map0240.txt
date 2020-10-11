@@ -8,7 +8,7 @@ Yonaka
 
 
 #Message# (9)
-異端モゲコ
+Defect Mogeko
 「なんでだ？」
 ##
 
@@ -27,19 +27,19 @@ Yonaka
 
 
 #Message# (19)
-異端モゲコ
+Defect Mogeko
 「･･････そうか」
 ##
 
 
 #Message# (21)
-異端モゲコ
+Defect Mogeko
 「･･･････。」
 ##
 
 
 #Message# (24)
-異端モゲコ
+Defect Mogeko
 「で、ここが図書館への入り口だ。」
 ##
 
@@ -51,13 +51,13 @@ Yonaka
 
 
 #Message# (30)
-異端モゲコ
+Defect Mogeko
 「ここが7階への一番の近道なんだ」
 ##
 
 
 #Message# (32)
-異端モゲコ
+Defect Mogeko
 「･･･････。」
 ##
 
@@ -69,13 +69,13 @@ Yonaka
 
 
 #Message# (38)
-異端モゲコ
+Defect Mogeko
 「いや･････ちょっとな」
 ##
 
 
 #Message# (40)
-異端モゲコ
+Defect Mogeko
 「まあ、怪しい気配も感じねーし
 　とっとと行くか」
 ##

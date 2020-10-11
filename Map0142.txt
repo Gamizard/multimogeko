@@ -1,13 +1,13 @@
 ﻿**********Event1********** (2,27) - EV0001
 -----Page1-----
 #Message# (2)
-異端モゲコ
+Defect Mogeko
 「････････････。」
 ##
 
 
 #Message# (5)
-異端モゲコ
+Defect Mogeko
 「マスク持ってくれば良かったな」
 ##
 
@@ -19,7 +19,7 @@ Yonaka
 
 
 #Message# (11)
-異端モゲコ
+Defect Mogeko
 「ここから先、\.\.くさいから。\.\.\.
 　腐臭で。」
 ##
@@ -36,27 +36,27 @@ Yonaka
 **********Event2********** (34,3) - EV0002
 -----Page1-----
 #Message# (3)
-異端モゲコ
+Defect Mogeko
 「もげ子････いないな･･･
 　いや、油断はできん････。」
 ##
 
 
 #Message# (6)
-異端モゲコ
+Defect Mogeko
 「もしかしたらもう気付かれているのかも
 　しれないし」
 ##
 
 
 #Message# (9)
-異端モゲコ
+Defect Mogeko
 「気付かれていないかもしれない」
 ##
 
 
 #Message# (11)
-異端モゲコ
+Defect Mogeko
 「奴は何を仕出かすか･･･わからん･･･。」
 ##
 

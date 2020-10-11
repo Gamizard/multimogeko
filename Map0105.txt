@@ -141,14 +141,14 @@ Yonaka
 
 
 #Message# (83)
-異端モゲコ
+Defect Mogeko
 「俺の事をそう呼ぶのかよ･･･\.\.
 　まあいいけど」
 ##
 
 
 #Message# (86)
-異端モゲコ
+Defect Mogeko
 「あれだろ？\.\.あいつら馬鹿だし･･･\.\.
 　間違えたんだろ」
 ##
@@ -161,7 +161,7 @@ Yonaka
 
 
 #Message# (93)
-異端モゲコ
+Defect Mogeko
 「仕方ないだろモゲコなんだから」
 ##
 
@@ -173,7 +173,7 @@ Yonaka
 
 
 #Message# (99)
-異端モゲコ
+Defect Mogeko
 「嬢ちゃん、悪いことは言わねーから、\.\.
 　さっさとこの城から逃げなよ･･･」
 ##
@@ -199,19 +199,19 @@ Yonaka
 
 
 #Message# (112)
-異端モゲコ
+Defect Mogeko
 「ふーん」
 ##
 
 
 #Message# (114)
-異端モゲコ
+Defect Mogeko
 「まあ間違いじゃねぇな。」
 ##
 
 
 #Message# (116)
-異端モゲコ
+Defect Mogeko
 「上へ行けば確かに望みの世界に行ける
 　だろうな。」
 ##
@@ -224,7 +224,7 @@ Yonaka
 
 
 #Message# (123)
-異端モゲコ
+Defect Mogeko
 「なんだよちょっと変なモゲコの言った事
 　信じてなかったのかよ」
 ##
@@ -237,7 +237,7 @@ Yonaka
 
 
 #Message# (130)
-異端モゲコ
+Defect Mogeko
 「まあーー無理ねえよなァ。あいつも
 　あいつらも、みんなモゲコだし。」
 ##
@@ -250,20 +250,20 @@ Yonaka
 
 
 #Message# (137)
-異端モゲコ
+Defect Mogeko
 「へー\.\.　まあ\.\.　頑張れよ」
 ##
 
 
 #Message# (139)
-異端モゲコ
+Defect Mogeko
 「俺はご覧の通り足枷で
 　身動きとれねーし」
 ##
 
 
 #Message# (142)
-異端モゲコ
+Defect Mogeko
 「明日死刑を控えてるからなー」
 ##
 
@@ -281,7 +281,7 @@ Yonaka
 
 
 #Message# (154)
-異端モゲコ
+Defect Mogeko
 「死刑だよ。」
 ##
 
@@ -293,7 +293,7 @@ Yonaka
 
 
 #Message# (163)
-異端モゲコ
+Defect Mogeko
 「俺は異端者だからなー\.\.仕方ない。」
 ##
 
@@ -305,7 +305,7 @@ Yonaka
 
 
 #Message# (169)
-異端モゲコ
+Defect Mogeko
 「十分抵抗はしたしなー、もう別にいいよ\.\.
 　つーかとれねんだよ、コレ」
 ##
@@ -336,7 +336,7 @@ Yonaka
 
 
 #Message# (184)
-異端モゲコ
+Defect Mogeko
 「！？　\.\.お、お前！」
 ##
 
@@ -348,7 +348,7 @@ Yonaka
 
 
 #Message# (190)
-異端モゲコ
+Defect Mogeko
 「その鍵を何処で･･･！？」
 ##
 
@@ -361,13 +361,13 @@ Yonaka
 
 
 #Message# (197)
-異端モゲコ
+Defect Mogeko
 「！」
 ##
 
 
 #Message# (199)
-異端モゲコ
+Defect Mogeko
 「そうかァ･･･あいつ･･･\.\.ははは」
 ##
 
@@ -379,13 +379,13 @@ Yonaka
 
 
 #Message# (205)
-異端モゲコ
+Defect Mogeko
 「それ、貸してみな。」
 ##
 
 
 #Message# (217)
-異端モゲコ
+Defect Mogeko
 「はい、返す。」
 ##
 
@@ -397,14 +397,14 @@ Yonaka
 
 
 #Message# (223)
-異端モゲコ
+Defect Mogeko
 「サンキューな。お前のおかげで
 　とれたぜ。」
 ##
 
 
 #Message# (227)
-異端モゲコ
+Defect Mogeko
 「じゃあ暇だし、手伝ってやるよ」
 ##
 
@@ -416,7 +416,7 @@ Yonaka
 
 
 #Message# (233)
-異端モゲコ
+Defect Mogeko
 「お前の脱出計画」
 ##
 

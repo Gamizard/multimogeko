@@ -361,7 +361,7 @@
 **********Event45********** (10,22) - EV0045
 -----Page1-----
 #Message# (2)
-異端モゲコ
+Defect Mogeko
 「この先には何が･･･」
 ##
 
@@ -373,7 +373,7 @@
 
 
 #Message# (9)
-異端モゲコ
+Defect Mogeko
 「な、嬢ちゃん、何を言ってるんだ」
 ##
 
@@ -393,13 +393,13 @@ Yonaka
 
 
 #Message# (19)
-異端モゲコ
+Defect Mogeko
 「お前っ･･･！」
 ##
 
 
 #Message# (21)
-異端モゲコ
+Defect Mogeko
 「ばかなこと言うんじゃねえ！」
 ##
 
@@ -411,7 +411,7 @@ Yonaka
 
 
 #Message# (27)
-異端モゲコ
+Defect Mogeko
 「！」
 ##
 
@@ -424,13 +424,13 @@ Yonaka
 
 
 #Message# (34)
-異端モゲコ
+Defect Mogeko
 「･･･････････。」
 ##
 
 
 #Message# (36)
-異端モゲコ
+Defect Mogeko
 「嬢ちゃん･･････。」
 ##
 
