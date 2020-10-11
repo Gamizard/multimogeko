@@ -18,10 +18,10 @@ Yonaka
 
 *****Entry3*****
 #Name# [12]
-モゲコ
+Mogeko
 
 #Title# [12]
-モゲコ
+Mogeko
 
 
 

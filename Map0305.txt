@@ -204,7 +204,7 @@ Yonaka
 
 
 #Message# (14)
-モゲコ
+Mogeko
 「もげげげげげ♪」
 ##
 
@@ -245,7 +245,7 @@ Yonaka
 
 
 #Message# (40)
-モゲコ
+Mogeko
 「隊長！」
 ##
 

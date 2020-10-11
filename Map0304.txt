@@ -245,13 +245,13 @@ Yonaka
 
 
 #Message# (199)
-モゲコ
+Mogeko
 「隊長？！」
 ##
 
 
 #Message# (202)
-モゲコ
+Mogeko
 「な、なんで酷いことを･･･！」
 ##
 
@@ -263,7 +263,7 @@ Yonaka
 
 
 #Message# (218)
-モゲコ
+Mogeko
 「！？　頭に･･･もげこ王の皮を、
 　かぶった･･･！？」
 ##
@@ -282,7 +282,7 @@ Yonaka
 
 
 #Message# (228)
-モゲコ
+Mogeko
 「な、なにィ～～～～ッ！？」
 ##
 
@@ -295,7 +295,7 @@ Yonaka
 
 
 #Message# (235)
-モゲコ
+Mogeko
 「にゃにを！バカなことを抜かすな！」
 ##
 
@@ -307,7 +307,7 @@ Yonaka
 
 
 #Message# (244)
-モゲコ
+Mogeko
 「！？」
 ##
 
@@ -320,7 +320,7 @@ Yonaka
 
 
 #Message# (253)
-モゲコ
+Mogeko
 「！？！？」
 ##
 
@@ -332,7 +332,7 @@ Yonaka
 
 
 #Message# (263)
-モゲコ
+Mogeko
 「ヴぁああああああああ！！
 　オアアアーーーーー！！！！」
 ##
@@ -383,37 +383,37 @@ Yonaka
 
 
 #Message# (298)
-モゲコ
+Mogeko
 「！？」
 ##
 
 
 #Message# (309)
-モゲコ
+Mogeko
 「あ･･･ああ･･･。」
 ##
 
 
 #Message# (311)
-モゲコ
+Mogeko
 「なんてことだ･･･。」
 ##
 
 
 #Message# (315)
-モゲコ
+Mogeko
 「！？　　まさか･･･」
 ##
 
 
 #Message# (318)
-モゲコ
+Mogeko
 「生ハムの･･･神！？」
 ##
 
 
 #Message# (321)
-モゲコ
+Mogeko
 「あなたは･･･生ハムの神！？」
 ##
 
@@ -437,32 +437,32 @@ Yonaka
 
 
 #Message# (340)
-モゲコ
+Mogeko
 「おお･････････おお！！！！！」
 ##
 
 
 #Message# (342)
-モゲコ
+Mogeko
 「神よ！！！！」
 ##
 
 
 #Message# (344)
-モゲコ
+Mogeko
 「おお！」
 ##
 
 
 #Message# (346)
-モゲコ
+Mogeko
 「おお！神よ！美しき輝きを纏いし
 　唯一絶対の生ハムの神よ！」
 ##
 
 
 #Message# (350)
-モゲコ
+Mogeko
 「おお････！！おお････！！！」
 ##
 

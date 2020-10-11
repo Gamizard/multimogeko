@@ -12,43 +12,43 @@
 
 
 #Message# (13)
-モゲコ
+Mogeko
 「行ったもげ」
 ##
 
 
 #Message# (15)
-モゲコ
+Mogeko
 「行ったもげね」
 ##
 
 
 #Message# (17)
-モゲコ
+Mogeko
 「このままの調子で行けば」
 ##
 
 
 #Message# (19)
-モゲコ
+Mogeko
 「もげたんたちの」
 ##
 
 
 #Message# (21)
-モゲコ
+Mogeko
 「計画通り。」
 ##
 
 
 #Message# (23)
-モゲコ
+Mogeko
 「ふふふ」
 ##
 
 
 #Message# (25)
-モゲコ
+Mogeko
 「ふふふ」
 ##
 
