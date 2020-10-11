@@ -178,8 +178,8 @@ Mogeko
 
 
 #Choice# (9)
-はい
-いいえ
+Yes
+No
 ##
 
 

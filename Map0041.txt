@@ -431,8 +431,8 @@ Mogeko
 
 
 #Choice# (6)
-はい
-いいえ
+Yes
+No
 ##
 
 
@@ -460,8 +460,8 @@ Mogeko
 
 
 #Choice# (6)
-はい
-いいえ
+Yes
+No
 ##
 
 
@@ -489,8 +489,8 @@ Mogeko
 
 
 #Choice# (6)
-はい
-いいえ
+Yes
+No
 ##
 
 
@@ -518,8 +518,8 @@ Mogeko
 
 
 #Choice# (6)
-はい
-いいえ
+Yes
+No
 ##
 
 
@@ -547,8 +547,8 @@ Mogeko
 
 
 #Choice# (6)
-はい
-いいえ
+Yes
+No
 ##
 
 
@@ -576,8 +576,8 @@ Mogeko
 
 
 #Choice# (6)
-はい
-いいえ
+Yes
+No
 ##
 
 
@@ -605,8 +605,8 @@ Mogeko
 
 
 #Choice# (6)
-はい
-いいえ
+Yes
+No
 ##
 
 
@@ -634,8 +634,8 @@ Mogeko
 
 
 #Choice# (6)
-はい
-いいえ
+Yes
+No
 ##
 
 

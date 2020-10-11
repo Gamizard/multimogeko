@@ -30,8 +30,8 @@ Mogeko
 
 
 #Choice# (11)
-はい
-いいえ
+Yes
+No
 ##
 
 

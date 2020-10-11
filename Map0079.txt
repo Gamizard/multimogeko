@@ -46,8 +46,8 @@ Mogeko
 
 
 #Choice# (4)
-はい
-いいえ
+Yes
+No
 ##
 
 

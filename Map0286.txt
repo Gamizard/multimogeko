@@ -132,8 +132,8 @@ MOGEKO CASTLE
 
 
 #Choice# (3)
-はい
-いいえ
+Yes
+No
 ##
 
 
@@ -153,8 +153,8 @@ Yonaka
 
 
 #Choice# (3)
-はい
-いいえ
+Yes
+No
 ##
 
 
@@ -174,8 +174,8 @@ Yonaka
 
 
 #Choice# (3)
-はい
-いいえ
+Yes
+No
 ##
 
 
@@ -195,8 +195,8 @@ Yonaka
 
 
 #Choice# (3)
-はい
-いいえ
+Yes
+No
 ##
 
 
@@ -223,8 +223,8 @@ Mogeko
 
 
 #Choice# (9)
-はい
-いいえ
+Yes
+No
 ##
 
 

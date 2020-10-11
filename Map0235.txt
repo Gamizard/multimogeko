@@ -101,8 +101,8 @@ Defect Mogeko
 
 
 #Choice# (7)
-はい
-いいえ
+Yes
+No
 ##
 
 
@@ -116,8 +116,8 @@ Defect Mogeko
 
 
 #Choice# (2)
-はい
-いいえ
+Yes
+No
 ##
 
 
@@ -188,8 +188,8 @@ Moge-ko
 
 
 #Choice# (2)
-はい
-いいえ
+Yes
+No
 ##
 
 
@@ -260,8 +260,8 @@ Moge-ko
 
 
 #Choice# (2)
-はい
-いいえ
+Yes
+No
 ##
 
 
@@ -332,8 +332,8 @@ Moge-ko
 
 
 #Choice# (2)
-はい
-いいえ
+Yes
+No
 ##
 
 

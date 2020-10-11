@@ -21,8 +21,8 @@ Mogeko
 
 
 #Choice# (3)
-はい
-いいえ
+Yes
+No
 ##
 
 
@@ -51,8 +51,8 @@ Mogeko
 
 
 #Choice# (3)
-はい
-いいえ
+Yes
+No
 ##
 
 
@@ -81,8 +81,8 @@ Mogeko
 
 
 #Choice# (3)
-はい
-いいえ
+Yes
+No
 ##
 
 
@@ -111,8 +111,8 @@ Mogeko
 
 
 #Choice# (3)
-はい
-いいえ
+Yes
+No
 ##
 
 
@@ -153,8 +153,8 @@ Mogeko
 
 
 #Choice# (9)
-はい
-いいえ
+Yes
+No
 ##
 
 

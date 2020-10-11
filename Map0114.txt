@@ -22,8 +22,8 @@ Defect Mogeko
 
 
 #Choice# (7)
-はい
-いいえ
+Yes
+No
 ##
 
 
@@ -200,8 +200,8 @@ Yonaka
 
 
 #Choice# (6)
-はい
-いいえ
+Yes
+No
 ##
 
 

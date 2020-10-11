@@ -67,8 +67,8 @@ Yonaka
 
 
 #Choice# (4)
-はい
-いいえ
+Yes
+No
 ##
 
 
@@ -83,8 +83,8 @@ Yonaka
 
 
 #Choice# (4)
-はい
-いいえ
+Yes
+No
 ##
 
 
@@ -99,8 +99,8 @@ Yonaka
 
 
 #Choice# (4)
-はい
-いいえ
+Yes
+No
 ##
 
 
@@ -115,8 +115,8 @@ Yonaka
 
 
 #Choice# (4)
-はい
-いいえ
+Yes
+No
 ##
 
 
@@ -131,8 +131,8 @@ Yonaka
 
 
 #Choice# (4)
-はい
-いいえ
+Yes
+No
 ##
 
 
