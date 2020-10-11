@@ -27,7 +27,7 @@ Mogeko
 
 *****Entry4*****
 #Name# [12]
-シンヤ
+Shinya
 
 #Title# [12]
 ？？
