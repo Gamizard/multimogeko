@@ -149,7 +149,7 @@ Yonaka
 
 
 #Message# (88)
-もっふる
+Moffuru
 「･･･････。」
 ##
 
@@ -161,7 +161,7 @@ Yonaka
 
 
 #Message# (94)
-もっふる
+Moffuru
 「私は元からこの姿なんじゃい！」
 ##
 
@@ -179,7 +179,7 @@ Defect Mogeko
 
 
 #Message# (103)
-もっふる
+Moffuru
 「ああ、おかげでモフコと間違われて
 　何度かあの化け物に食われかけたわい」
 ##
@@ -190,7 +190,7 @@ Defect Mogeko
 **********Event6********** (9,7) - EV0006
 -----Page1-----
 #Message# (2)
-もっふる
+Moffuru
 「もふもふ」
 ##
 

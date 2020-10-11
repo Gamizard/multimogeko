@@ -14,13 +14,13 @@ Defect Mogeko
 
 
 #Message# (12)
-もっふる
+Moffuru
 「お前こそな！」
 ##
 
 
 #Message# (14)
-もっふる
+Moffuru
 「私とてあの程度の小物に食われる程
 　か弱くはないぞ！」
 ##
@@ -46,13 +46,13 @@ Defect Mogeko
 
 
 #Message# (27)
-もっふる
+Moffuru
 「事情はなんとなく飲み込めたぞ！」
 ##
 
 
 #Message# (29)
-もっふる
+Moffuru
 「お前らを6階にとっとと案内してやる！\.\.
 　あの羽毛くさいところにな！」
 ##
@@ -78,7 +78,7 @@ Yonaka
 
 
 #Message# (42)
-もっふる
+Moffuru
 「お前はどうするのだ？一緒にここを
 　でていくつもりか？」
 ##
@@ -98,13 +98,13 @@ Defect Mogeko
 
 
 #Message# (52)
-もっふる
+Moffuru
 「うむ、そうか。」
 ##
 
 
 #Message# (54)
-もっふる
+Moffuru
 「そこの女子。えーと、名前は
 　ヨナカだったかの？」
 ##
@@ -117,7 +117,7 @@ Yonaka
 
 
 #Message# (61)
-もっふる
+Moffuru
 「ふっふっふ\.\.
 　よくここまで来れたな」
 ##
@@ -131,7 +131,7 @@ Yonaka
 
 
 #Message# (69)
-もっふる
+Moffuru
 「ふうん？お前も性に合わないこと
 　するのう」
 ##
@@ -144,13 +144,13 @@ Defect Mogeko
 
 
 #Message# (76)
-もっふる
+Moffuru
 「ふっふっふ」
 ##
 
 
 #Message# (78)
-もっふる
+Moffuru
 「それじゃ、あのキチガイ女が来る前に
 　ちゃっちゃと行こうかの」
 ##
