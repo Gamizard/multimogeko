@@ -13,7 +13,7 @@ Yonaka
 
 
 #Message# (10)
-もげこ王
+King mogeko
 「哀れな最期だねえ？」
 ##
 
@@ -31,7 +31,7 @@ Mogeko
 
 
 #Message# (18)
-もげこ王
+King mogeko
 「宜しい･････。」
 ##
 
@@ -43,7 +43,7 @@ Mogeko
 
 
 #Message# (26)
-もげこ王
+King mogeko
 「あん？」
 ##
 
@@ -56,19 +56,19 @@ Mogeko
 
 
 #Message# (35)
-もげこ王
+King mogeko
 「･･････････････。」
 ##
 
 
 #Message# (37)
-もげこ王
+King mogeko
 「フッ」
 ##
 
 
 #Message# (41)
-もげこ王
+King mogeko
 「火を放て」
 ##
 

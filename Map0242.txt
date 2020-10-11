@@ -1,19 +1,19 @@
 ﻿**********Event16********** (0,0) - EV0016
 -----Page1-----
 #Message# (27)
-もげこ王
+King mogeko
 「･･････････。」
 ##
 
 
 #Message# (31)
-もげこ王
+King mogeko
 「チーーーーーーッス！！！！」
 ##
 
 
 #Message# (33)
-もげこ王
+King mogeko
 「我が城、モゲコキャッスルへ
 　ようこそ！」
 ##
@@ -41,14 +41,14 @@ Yonaka
 
 
 #Message# (49)
-もげこ王
+King mogeko
 「いやあー！ヨナカちゃん！きみも
 　中々すごいんだねえ！」
 ##
 
 
 #Message# (52)
-もげこ王
+King mogeko
 「さっきもげ子に怒られちゃったよ～\.\.
 　もげははは」
 ##
@@ -62,7 +62,7 @@ Yonaka
 
 
 #Message# (60)
-もげこ王
+King mogeko
 「いやあーー、\.\.まさかキミが手を貸して
 　いたとはねえ･････。」
 ##
@@ -82,20 +82,20 @@ Yonaka
 
 
 #Message# (70)
-もげこ王
+King mogeko
 「え？\.\.そんなん知らんし。\.\.
 　ぶっ壊したもげ」
 ##
 
 
 #Message# (73)
-もげこ王
+King mogeko
 「あんなのいらないもんねー」
 ##
 
 
 #Message# (76)
-もげこ王
+King mogeko
 「もげげ！」
 ##
 
@@ -107,7 +107,7 @@ Yonaka
 
 
 #Message# (82)
-もげこ王
+King mogeko
 「キミはやっぱり邪魔だねえ！\.\.
 　あの時殺しておくんだったよ！」
 ##
@@ -120,14 +120,14 @@ Yonaka
 
 
 #Message# (89)
-もげこ王
+King mogeko
 「もげたんの世界にいる以上お前の
 　好きにはさせなーいもげ！」
 ##
 
 
 #Message# (92)
-もげこ王
+King mogeko
 「観念するもげね！」
 ##
 

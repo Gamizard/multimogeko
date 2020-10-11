@@ -197,7 +197,7 @@ Yonaka
 
 
 #Message# (11)
-もげこ王
+King mogeko
 「やあ♪
 　おかえり♪」
 ##
@@ -228,7 +228,7 @@ Yonaka
 
 
 #Message# (26)
-もげこ王
+King mogeko
 「え？」
 ##
 
@@ -239,7 +239,7 @@ Yonaka
 
 
 #Message# (38)
-もげこ王
+King mogeko
 「ぎゃーーす！痛ぇ！」
 ##
 
@@ -265,19 +265,19 @@ Yonaka
 
 
 #Message# (51)
-もげこ王
+King mogeko
 「えっ？ちょ･････」
 ##
 
 
 #Message# (53)
-もげこ王
+King mogeko
 「待つんだ！キミ！」
 ##
 
 
 #Message# (55)
-もげこ王
+King mogeko
 「ごめん！しつこかった！
 　謝るから！待ってぇー！」
 ##

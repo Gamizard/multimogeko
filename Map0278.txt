@@ -7,7 +7,7 @@
 
 
 #Message# (12)
-もげこ王
+King mogeko
 「がァッ･･･････。」
 ##
 
@@ -43,13 +43,13 @@
 
 
 #Message# (35)
-もげこ王
+King mogeko
 「･････････････。」
 ##
 
 
 #Message# (38)
-もげこ王
+King mogeko
 「うひひ」
 ##
 
@@ -61,13 +61,13 @@
 
 
 #Message# (45)
-もげこ王
+King mogeko
 「だからさぁ･･･言ったよね？」
 ##
 
 
 #Message# (49)
-もげこ王
+King mogeko
 「全て････『無駄』だって」
 ##
 

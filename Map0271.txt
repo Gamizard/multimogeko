@@ -25,7 +25,7 @@ Yonaka
 
 
 #Message# (41)
-もげこ王
+King mogeko
 「無駄なんだよ。」
 ##
 
@@ -43,7 +43,7 @@ Yonaka
 
 
 #Message# (50)
-もげこ王
+King mogeko
 「お前もよくわかっているだろう？」
 ##
 
@@ -55,13 +55,13 @@ Yonaka
 
 
 #Message# (56)
-もげこ王
+King mogeko
 「私から逃げることなど不可能･･･」
 ##
 
 
 #Message# (58)
-もげこ王
+King mogeko
 「お前は･･･\.\.私だからだ。\.\.
 　――――\.\.裏モゲコ････。」
 ##
@@ -80,7 +80,7 @@ Yonaka
 
 
 #Message# (69)
-もげこ王
+King mogeko
 「さあ、おとなしく女子高生ちゃんを
 　こちらへ渡すんだな」
 ##
@@ -99,14 +99,14 @@ Yonaka
 
 
 #Message# (86)
-もげこ王
+King mogeko
 「なッ！？
 　催涙ガス････」
 ##
 
 
 #Message# (90)
-もげこ王
+King mogeko
 「ふええええええええええ！！！
 　目があああああああああ！！！！！」
 ##

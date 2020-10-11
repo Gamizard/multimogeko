@@ -8,7 +8,7 @@ Moge-ko
 
 
 #Message# (19)
-もげこ王
+King mogeko
 「も、もげ子、落ち着くもげ･･･。」
 ##
 
@@ -21,7 +21,7 @@ Moge-ko
 
 
 #Message# (26)
-もげこ王
+King mogeko
 「だって逃げられちゃったんだもん･･･」
 ##
 
@@ -34,7 +34,7 @@ Moge-ko
 
 
 #Message# (34)
-もげこ王
+King mogeko
 「いやあああああああああああ！！！」
 ##
 
@@ -59,13 +59,13 @@ Yonaka
 
 
 #Message# (56)
-もげこ王
+King mogeko
 「！！！」
 ##
 
 
 #Message# (58)
-もげこ王
+King mogeko
 「ほ、ほらぁ！ヨナカたんだよ！
 　うしろ！（よっしゃあ！セーフ！）」
 ##
@@ -171,13 +171,13 @@ Moge-ko
 
 
 #Message# (137)
-もげこ王
+King mogeko
 「！？」
 ##
 
 
 #Message# (140)
-もげこ王
+King mogeko
 「も････もげ子！？」
 ##
 
@@ -195,7 +195,7 @@ Yonaka
 
 
 #Message# (153)
-もげこ王
+King mogeko
 「え？（なんでだよ！殺せよ！）」
 ##
 
@@ -207,13 +207,13 @@ Yonaka
 
 
 #Message# (165)
-もげこ王
+King mogeko
 「え？」
 ##
 
 
 #Message# (173)
-もげこ王
+King mogeko
 「おごぉッ！？！？」
 ##
 
@@ -225,21 +225,21 @@ Yonaka
 
 
 #Message# (179)
-もげこ王
+King mogeko
 「もごおおおお！？やめて！顔が
 　つぶれる！つぶれる！つぶれ･･･」
 ##
 
 
 #Message# (184)
-もげこ王
+King mogeko
 「んお゛お゛お゛お゛お゛お゛お゛お゛
 　お゛お゛お゛！！！！！！！」
 ##
 
 
 #Message# (196)
-もげこ王
+King mogeko
 「･････････････。」
 ##
 
