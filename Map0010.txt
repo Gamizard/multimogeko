@@ -2,39 +2,38 @@
 -----Page1-----
 #Message# (4)
 Yonaka
-「･･･････････。」
+"............"
 ##
 
 
 #Message# (6)
 Yonaka
-「帰らなくちゃ･･･。」
+"I have to go home..."
 ##
 
 
 #Message# (8)
 Yonaka
-「（今日は、\.\.兄さんが、
-　帰ってくるの･･･。）」
+(Today、\.\.my brother is coming back....)
 ##
 
 
 #Message# (11)
 Yonaka
-「（だから･･･\.\.はやく、\.\.
-　帰らなくちゃ･･･。）」
+(So...\.\.Fast,\.\.
+　I have to go home....)
 ##
 
 
 #Message# (14)
 Yonaka
-「（久しぶりなんだもん･･･。）」
+(It's been so long....)
 ##
 
 
 #Message# (16)
 Yonaka
-「（早く会いたいなぁ････。）」
+(I want to see you soon.....)
 ##
 
 
